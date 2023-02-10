@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+}
+
+.foto {
+    border-radius: 50%;
+}
+
+.name {
+
+    background: #3f313f;
+    color: #e5d6d2;
+    padding: 20px;
+
+}
+
+.wrap-name {
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    padding: 20px;
+}
+
+
+.name-title {
+    padding: 40px;
+}
+
+
+.main-css {
+    color: #000;
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.zagolovok {
+    padding-top: 20px;
+}
+
+.experience-years {
+    display: flex;
+    justify-content: space-between;
+    color: #000;
+    padding-top: 20px;
+
+}
+
+.company {
+    font-size: 20;
+    color: #000;
+    margin: auto 60px;
+}
+
+.paragraf {
+    padding-top: 20px;
+
+}
+
+.otst-spis {
+    padding: 20px;
+}
+
+.form {
+    background: #e5d6d2;
+    text-align: center;
+    color: #3f313f;
+    padding: 20px;
+}
+
+.polya {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.contacts {
+    background: #3f313f;
+    text-align: center;
+    font-size: 20;
+    color: #e5d6d2;
+    padding: 20px;
+
+
+}
+
+.cont-block {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 1170px;
+    margin: 0 auto;
+}
+
+
+.buttom {
+    width: 250px;
+    height: 40px;
+    background: #3f313f;
+    color: #e5d6d2;
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    border: none;
+
+}
